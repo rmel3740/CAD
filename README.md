@@ -1,4 +1,4 @@
-# Chat GPT Access Denied 解决方案
+# ChatGPT Access Denied 解决方案
 
 ## 解决方案背景
 
