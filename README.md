@@ -30,6 +30,6 @@
 
 ## 推荐使用虚拟信用卡开卡平台
 
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、eBay、Shopify、GitHub、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.fomepay.com/](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、eBay、Shopify、GitHub、TikTok、Paypal 等各类订阅海淘平台。
 
 Chrome 一直拒绝访问，换了很多代理都不行，换了火狐使用新加坡的代理立马就可以进了。
